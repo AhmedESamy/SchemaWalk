@@ -1,6 +1,6 @@
 # SchemaWalk
 
-This repository contains the code for _SchemaWalk: Schema Aware Random Walks for Heterogeneous Graph Embedding_, a paper **currently under review**.
+This repository contains the code for _SchemaWalk: Schema Aware Random Walks for Heterogeneous Graph Embedding_, a paper **recently accepted in WWW, Companion Volume**.
 
 ## Contents
 
